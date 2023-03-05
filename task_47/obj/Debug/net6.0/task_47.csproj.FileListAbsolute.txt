@@ -1,0 +1,15 @@
+L:\Обучение GB\DZ_sharp_7\task_47\bin\Debug\net6.0\task_47.exe
+L:\Обучение GB\DZ_sharp_7\task_47\bin\Debug\net6.0\task_47.deps.json
+L:\Обучение GB\DZ_sharp_7\task_47\bin\Debug\net6.0\task_47.runtimeconfig.json
+L:\Обучение GB\DZ_sharp_7\task_47\bin\Debug\net6.0\task_47.dll
+L:\Обучение GB\DZ_sharp_7\task_47\bin\Debug\net6.0\task_47.pdb
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.csproj.AssemblyReference.cache
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.GeneratedMSBuildEditorConfig.editorconfig
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.AssemblyInfoInputs.cache
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.AssemblyInfo.cs
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.csproj.CoreCompileInputs.cache
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.dll
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\refint\task_47.dll
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.pdb
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\task_47.genruntimeconfig.cache
+L:\Обучение GB\DZ_sharp_7\task_47\obj\Debug\net6.0\ref\task_47.dll
